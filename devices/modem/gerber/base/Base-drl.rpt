@@ -1,0 +1,29 @@
+Drill report for C:/Projects/OpenCPLC/devices-modem/design/base/Base.kicad_pcb
+Created on 1/31/2023 9:02:25 PM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'Base-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.30mm  0.012"  (176 holes)
+    T2  0.55mm  0.022"  (1 hole)
+    T3  0.80mm  0.031"  (32 holes)
+    T4  1.00mm  0.039"  (18 holes)
+    T5  1.30mm  0.051"  (6 holes)
+    T6  1.35mm  0.053"  (10 holes)
+    T7  1.60mm  0.063"  (2 holes)
+
+    Total plated holes count 245
+
+
+Drill file 'Base-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  1.50mm  0.059"  (1 hole)
+
+    Total unplated holes count 1

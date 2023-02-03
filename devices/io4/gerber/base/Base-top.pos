@@ -1,0 +1,8 @@
+### Module positions - created on 02/03/23 00:58:12 ###
+### Printed by Pcbnew version pcbnew (5.1.9)-1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val       Package                PosX       PosY       Rot  Side
+E1        100µF    6.3x7.7             21.4000   -60.0000  270.0000  top
+E2        100µF    6.3x7.7             12.2000   -60.0000  270.0000  top
+## End

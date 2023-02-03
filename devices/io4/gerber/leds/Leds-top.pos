@@ -1,0 +1,26 @@
+### Module positions - created on 02/02/23 22:46:17 ###
+### Printed by Pcbnew version pcbnew (5.1.9)-1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val       Package                PosX       PosY       Rot  Side
+1         OUT       LED                  8.5000   -10.8000  180.0000  top
+1         IN        LED                  3.5000   -31.2000    0.0000  top
+2         OUT       LED                 13.5000   -10.8000  180.0000  top
+2         IN        LED                  8.5000   -31.2000    0.0000  top
+3         OUT       LED                 23.5000   -10.8000  180.0000  top
+3         IN        LED                 18.5000   -31.2000    0.0000  top
+4         IN        LED                 23.5000   -31.2000    0.0000  top
+4         OUT       LED                 28.5000   -10.8000  180.0000  top
+L1+       LAB       LAB                  3.5000   -10.2000    0.0000  top
+L1-       LAB       LAB                 13.5000   -31.8000    0.0000  top
+L2+       LAB       LAB                 18.5000   -10.2000    0.0000  top
+L2-       LAB       LAB                 28.5000   -31.8000    0.0000  top
+LED1      LED-Dual  PLCC4-3528           8.5000    -8.0000  270.0000  top
+LED2      LED-Dual  PLCC4-3528          13.5000    -8.0000  270.0000  top
+LED3      LED-Dual  PLCC4-3528          23.5000    -8.0000  270.0000  top
+LED4      LED-Dual  PLCC4-3528          28.5000    -8.0000  270.0000  top
+LED5      LED-Dual  PLCC4-3528           3.5000   -34.0000   90.0000  top
+LED6      LED-Dual  PLCC4-3528           8.5000   -34.0000   90.0000  top
+LED7      LED-Dual  PLCC4-3528          18.5000   -34.0000   90.0000  top
+LED8      LED-Dual  PLCC4-3528          23.5000   -34.0000   90.0000  top
+## End

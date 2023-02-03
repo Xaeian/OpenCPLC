@@ -1,0 +1,21 @@
+### Module positions - created on 02/02/23 22:46:17 ###
+### Printed by Pcbnew version pcbnew (5.1.9)-1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                PosX       PosY       Rot  Side
+C1        1µF      0603                13.0000   -12.5000   90.0000  bottom
+C2        1µF      0603                15.0000   -12.5000   90.0000  bottom
+C3        1µF      0603                17.0000   -12.5000   90.0000  bottom
+C4        1µF      0603                19.0000   -12.5000   90.0000  bottom
+C5        10µF     0603                20.5000   -20.5000  270.0000  bottom
+IC1       74HC595   TSSOP16              5.5000   -15.5000  180.0000  bottom
+IC2       74HC595   TSSOP16              5.5000   -26.0000  180.0000  bottom
+IC3       74HC125   TSSOP14             26.5000   -26.0000    0.0000  bottom
+IC4       74HC165   TSSOP16             26.5000   -15.5000  180.0000  bottom
+RL1       1kΩ      4x0603              11.0000    -7.0000  180.0000  bottom
+RL2       1kΩ      4x0603              26.0000    -7.0000    0.0000  bottom
+RL3       1kΩ      4x0603               6.0000   -35.0000  180.0000  bottom
+RL4       1kΩ      4x0603              21.0000   -35.0000    0.0000  bottom
+RL5       10kΩ     4x0603              18.5000    -7.0000    0.0000  bottom
+RL6       10kΩ     4x0603              26.5000   -21.0000  180.0000  bottom
+## End
