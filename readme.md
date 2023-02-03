@@ -1,3 +1,7 @@
+<style>
+  img { max-height: 400px; }
+</style>
+
 ## Introduction
 
 Project **OpenCPLC** ma być otwartoźródłowym projektem linii sterowników **SoftPLC** wraz z modułami rozszerzeń.
@@ -25,10 +29,12 @@ Na chwilę obecną zaprojektowane są dwa modułu:
 
 ![modem](images/modem.png)
 
-📐 Schematy układów [PDF](devices/modem/schema.pdf)
-📋 Lista materiałowa [XLSX](devices/modem/bom.xlsx)
-🔧 Dokumentacja montażowa [PDF](devices/modem/assembly.pdf)
-🧰 Pliki produkcyjne [GERBER](devices/modem/gerber/)
+Dokumentacja:
+
+- 📐 Schematy układów [PDF](devices/modem/schema.pdf)
+- 📋 Lista materiałowa [XLSX](devices/modem/bom.xlsx)
+- 🔧 Dokumentacja montażowa [PDF](devices/modem/assembly.pdf)
+- 🧰 Pliki produkcyjne [GERBER](devices/modem/gerber/)
 
 ### Uwagi do montażu
 
@@ -40,7 +46,9 @@ Na chwilę obecną zaprojektowane są dwa modułu:
 
 ![io4](images/io4.png)
 
-📐 Schematy układów [PDF](devices/io4/schema.pdf)
-📋 Lista materiałowa [XLSX](devices/io4/bom.xlsx)
-🔧 Dokumentacja montażowa [PDF](devices/io4/assembly.pdf)
-🧰 Pliki produkcyjne [GERBER](devices/io4/gerber/)
+Dokumentacja:
+
+- 📐 Schematy układów [PDF](devices/io4/schema.pdf)
+- 📋 Lista materiałowa [XLSX](devices/io4/bom.xlsx)
+- 🔧 Dokumentacja montażowa [PDF](devices/io4/assembly.pdf)
+- 🧰 Pliki produkcyjne [GERBER](devices/io4/gerber/)
