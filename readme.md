@@ -1,7 +1,3 @@
-<style>
-  img { max-height: 400px; }
-</style>
-
 ## Introduction
 
 Project **OpenCPLC** ma być otwartoźródłowym projektem linii sterowników **SoftPLC** wraz z modułami rozszerzeń.
