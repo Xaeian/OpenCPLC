@@ -9,7 +9,7 @@ Produkt będą wyrużniały:
   - Software'owo: Wykorzystanie uniwersalnego, języka progamowania jakim jest C, który jest w stanie zaspokoić potrzeby wielu aplikacji.
   - Haedware'owo: Pełen opis wewnętrznej magistrali wymiany danych, pozwalający na doprojektowywanie własnych modułów rozszerzeń.
 - **Niskie koszty** - w porównaniu z klasycznymi PLC. Brak licencji, tańsze urządzenia, a także możliwość optymalizacji kosztów poprzez własną produkcję.
-- **Wyższa wydajność** - Lepsze wykorzystanie zasobów systemu poprzez zastosowanie systemu czasu rzeczywistego i wszystkich sztuczek z języka C.
+- **Wydajność** - Lepsze wykorzystanie zasobów systemu poprzez zastosowanie systemu czasu rzeczywistego i wszystkich sztuczek z języka C.
 
 Oczywiście istnieją również zagrożenia dla projektu:
 
