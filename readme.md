@@ -8,18 +8,27 @@ Produkt będą wyrużniały:
 - **Elastyczność** - Łatwość dostosowania rozwiązania do specyficznych potrzeb aplikacji.
   - Software'owo: Wykorzystanie uniwersalnego, języka progamowania jakim jest C, który jest w stanie zaspokoić potrzeby wielu aplikacji.
   - Haedware'owo: Pełen opis wewnętrznej magistrali wymiany danych, pozwalający na doprojektowywanie własnych modułów rozszerzeń.
-- **Niskie koszty** - w porównaniu z klasycznymi PLC. Brak licencji, tańsze urządzenia, a także możliwość optymalizacji kosztów poprzez własną produkcję.
+- **Niskie koszty** - w porównaniu z klasycznymi PLC. Brak licencji, brak marży, a także możliwość optymalizacji kosztów poprzez własną produkcję.
 - **Wydajność** - Lepsze wykorzystanie zasobów systemu poprzez zastosowanie systemu czasu rzeczywistego i wszystkich sztuczek z języka C.
 
 Oczywiście istnieją również zagrożenia dla projektu:
 
 - Początkowy brak zaufania do produktu
-- Wymagana debrej znajomość języka C
+- Wymagana dobrej znajomość języka C
 
 Na chwilę obecną zaprojektowane są dwa modułu:
 
-- **Modem** - Urządzenie master zapewniające interfejs sieci komórkowy do wymiany danych
-- **IO4** - Moduł rozszerzeń zapewniający 4 wyjścia i 4 wejścia cyfrowe
+- `Modem` - Urządzenie master zapewniające interfejs sieci komórkowy do wymiany danych
+- `IO4` - Moduł rozszerzeń zapewniający **4** wyjścia i **4** wejścia cyfrowe
+
+W przyszłości planuję dodać:
+
+- `AI12` - Moduł rozszerzeń zawierający **12** wejść analogowych
+- `IN18` - Moduł rozszerzeń zawierający **18** wejść cyfrowych
+- `RO18` - Moduł rozszerzeń zawierający **18** wyjść tranzystorowych
+- `TO22` - Moduł rozszerzeń zawierający **22** wyjścia triakowe
+- `RS4` - Moduł zawierający 3 interfejsy **RS485** oraz **RS232**/RS485 **DS9**
+- `ETH` - Urządzenie master z dwoma interfejsami **Ethernet**
 
 # Modem
 
