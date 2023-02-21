@@ -48,3 +48,7 @@ Dokumentacja:
 - 📋 Lista materiałowa [XLSX](devices/io4/bom.xlsx)
 - 🔧 Dokumentacja montażowa [PDF](devices/io4/assembly.pdf)
 - 🧰 Pliki produkcyjne [GERBER](devices/io4/gerber/)
+
+# Backlog
+
+- **`2023-02-21`** - Wcięcia do urządzenia `modem` płytki `base`, które pozwolą na przytrzymanie akumulatora Li-ion przy pomocy zacisków **ZIP**
