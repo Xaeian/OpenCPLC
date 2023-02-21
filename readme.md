@@ -1,8 +1,8 @@
 ## Introduction
 
 Project **OpenCPLC** ma być otwartoźródłowym projektem linii sterowników **SoftPLC** wraz z modułami rozszerzeń.
-Moduły będą programowane w języku **Ansi C**, a w projekcie zostanie przygotowany odpowiedni ekosystem, aby maksymalnie uprościć ten proces.
-W projekcie nie będzie żadnej warstwy pośredniej pomiędzy programistą, a procesorem. Chyba że przygotujesz ją sobie sam 😄
+Moduły będą programowane w języku **Ansi C**, a w projekcie zostanie przygotowany odpowiedni ekosystem, aby maksymalnie uprościć ten proces. 
+W projekcie nie będzie żadnej warstwy pośredniej pomiędzy programistą, a procesorem. Chyba że przygotujesz ją sobie sam 😄 Za to będą kompleksowo przygotowane biblioteki z opisami oraz przykładami.
 Produkt będą wyrużniały:
 
 - **Elastyczność** - Łatwość dostosowania rozwiązania do specyficznych potrzeb aplikacji.
